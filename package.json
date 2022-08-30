@@ -1,0 +1,27 @@
+{
+  "name": "coder",
+  "version": "1.0.0",
+  "description": "paquete de prueba",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiagopochettino/PrueBakend.git"
+  },
+  "keywords": [
+    "santiago"
+  ],
+  "author": "Santiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santiagopochettino/PrueBakend/issues"
+  },
+  "homepage": "https://github.com/santiagopochettino/PrueBakend#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {}
+}
